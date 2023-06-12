@@ -1,6 +1,12 @@
 # virtualtutor
 
-A new Flutter project.
+虛擬班導
+第五組：
+1. 沈宗隆 (C109110168)
+2. 李宛芯 (C109110169)
+3. 石承翰 (C109151514)
+4. 謝卓研 (C109152260)
+5. 莊承翰 (C109151182)
 
 ## Getting Started
 
